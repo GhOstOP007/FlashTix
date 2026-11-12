@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "flashtix.jwt.secret-base64",
+    "type": "java.lang.String",
+    "description": "A description for 'flashtix.jwt.secret-base64'"
+  },
+  {
+    "name": "flashtix.jwt.issuer",
+    "type": "java.lang.String",
+    "description": "A description for 'flashtix.jwt.issuer'"
+  },
+  {
+    "name": "flashtix.jwt.expiration-minutes",
+    "type": "java.lang.String",
+    "description": "A description for 'flashtix.jwt.expiration-minutes'"
+  },
+  {
+    "name": "flashtix.razorpay.webhook-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'flashtix.razorpay.webhook-secret'"
+  }
+]}
